@@ -1,1 +1,2 @@
 # CS320Todelo
+I made sure my code is functional and secure by running it multiple times and testing every little part of the code to make sure every single method would work successfully and efficiently. I incorporated the client's needs by using them as their initial requirements for my first project, as the first project would serve as the template from my next projects. I approached the signing software by creating a template that follows the user's requirements and filling in the template as I go.
